@@ -1,0 +1,38 @@
+.star{
+    background-color: slategrey;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    width: 300px;
+    margin: 30px auto;
+
+}
+.container{
+    background-image: url(115015.webp);
+    padding: 20px;
+    width: 1500px;
+    height: 750px;
+}
+.auto{
+    background-color: black;
+    margin:auto;
+    padding: 40px;
+    width: 900px;
+    height: 470px;
+    border: solid red;
+}
+.text{
+    background-color: aqua;
+    margin: auto;
+    padding: 30px;
+    width: 800px;
+    height: 150px;
+}
+.box{
+    background-color: aqua;
+    margin:40px auto;
+    padding: 30px;
+    width: 800px;
+    height: 150px;
+}
